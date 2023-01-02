@@ -1,0 +1,11 @@
+<svg id="twitter" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.603" height="16" viewBox="0 0 19.603 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="19.603" height="16" fill="none" stroke="#00aeab" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Path_5" data-name="Path 5" d="M16.224,2.246a3.549,3.549,0,0,0-6.082,3.378A10.724,10.724,0,0,1,2.387,1.489C.271,5.138,1.6,11.189,6.363,12.766" transform="translate(-0.259 -0.183)" fill="none" stroke="#00aeab" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_6" data-name="Path 6" d="M1,14.406A10.747,10.747,0,0,0,17.036,5.38l.017.035,1.916-2.047" transform="translate(-0.183 -0.617)" fill="none" stroke="#00aeab" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

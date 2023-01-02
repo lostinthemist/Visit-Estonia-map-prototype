@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #00afab;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #00afab;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-1">
+    <rect class="cls-4" width="24" height="24"/>
+    <g id="abi_kontuur_1" transform="translate(1 1.5)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="10" cy="10" r="10" transform="translate(2 1.5)"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-3" width="1" height="1" transform="translate(11 16)"/>
+      <path id="Path_1" data-name="Path 1" class="cls-3" d="M11.48,6A3.5,3.5,0,0,0,8.02,9H9.03a2.5,2.5,0,0,1,4.95.5,2.75,2.75,0,0,1-1.43,2.22A3.155,3.155,0,0,0,11,14h1.01a3.925,3.925,0,0,1,1.57-2.23A2.952,2.952,0,0,0,14.97,9.5,3.489,3.489,0,0,0,11.48,6Z"/>
+    </g>
+  </g>
+</svg>
